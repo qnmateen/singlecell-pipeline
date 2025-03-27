@@ -1,0 +1,6 @@
+data/raw/
+logs/
+*.fastq
+*.bam
+*.ipynb_checkpoints/
+.DS_Store
